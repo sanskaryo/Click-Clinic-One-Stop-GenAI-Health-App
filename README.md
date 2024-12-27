@@ -1,6 +1,10 @@
 # ClickClinic: Your AI-Powered Health and Nutrition Companion
 
-Welcome to **ClickClinic**, an AI-powered healthcare platform designed to provide comprehensive health and nutrition solutions. Developed by **Team Manthan**, this project leverages open-source large language models (LLMs) and various tech stacks to offer a one-stop solution for all your health and nutrition needs.
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-red.svg)](https://streamlit.io/)
+
+Welcome to **ClickClinic**, an AI-powered healthcare platform designed to provide comprehensive health and nutrition solutions. Developed by **Team Manthan**, this project leverages open-source large models to deliver a one-stop solution for your health and nutrition needs.
 
 ## Table of Contents
 
@@ -16,7 +20,7 @@ Welcome to **ClickClinic**, an AI-powered healthcare platform designed to provid
 
 ## Introduction
 
-ClickClinic is an AI-powered healthcare platform that aims to simplify healthcare access and empower users with AI-driven insights. From finding nearby health services to managing reminders and providing 24/7 assistance, ClickClinic ensures that your healthcare is just a click away.
+ClickClinic is an AI-powered healthcare platform that aims to simplify healthcare access and empower users with AI-driven insights. From finding nearby health services to managing reminders and providing nutritional information, ClickClinic is your all-in-one health companion.
 
 ## Features
 
@@ -34,7 +38,7 @@ ClickClinic is an AI-powered healthcare platform that aims to simplify healthcar
 - **Frontend**: Streamlit
 - **Backend**: Python, Google Generative AI, Twilio API, PDFPlumber, PIL, Requests
 - **APIs**: Google Generative AI, Twilio API, Groq API
-- **Libraries**: Streamlit, Streamlit-Lottie, Streamlit-Option-Menu, Streamlit-WebRTC, Langchain, PDFPlumber, PIL, Requests, Pyrebase, Firebase-Admin, TensorFlow, SpeechRecognition, gTTS, TQDM, Protobuf, PyPDF2, Pyrebase4, OAuth2Client, Faiss-CPU
+- **Libraries**: Streamlit, Streamlit-Lottie, Streamlit-Option-Menu, Streamlit-WebRTC, Langchain, PDFPlumber, PIL, Requests, Pyrebase, Firebase-Admin, TensorFlow, SpeechRecognition, gTTS, TQDM, Promptify
 
 ## Installation
 
@@ -95,7 +99,6 @@ ClickClinic is an AI-powered healthcare platform that aims to simplify healthcar
   - **cities.json**: JSON file containing city data.
 - **README.md**: This file, containing information about the project.
 - **requirements.txt**: List of dependencies required for the project.
-
 
 ## Contributing
 
