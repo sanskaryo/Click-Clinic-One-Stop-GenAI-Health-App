@@ -200,4 +200,4 @@ with st.sidebar:
 
 # Page Footer
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("🤖 Compassionate AI-Powered Mental Health Support | Made with ❤️ by Team Code E Khiladi")
+st.markdown("🤖 Compassionate AI-Powered Mental Health Support | Made with ❤️ by Team Manthan")

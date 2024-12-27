@@ -143,7 +143,7 @@ with st.sidebar:
     st.write("---")
     
     st.markdown(
-        "<3 style='text-align: center;'>Developed with ❤️ for AI by <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team code E Khiladi </a></3>",
+        "<3 style='text-align: center;'>Developed with ❤️ for AI by <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Manthan</a></3>",
         unsafe_allow_html=True
     )
     

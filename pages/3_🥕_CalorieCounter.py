@@ -69,3 +69,40 @@ if submit:
     st.subheader("The Response is")
     st.write(response)
 
+
+
+st.markdown("""
+    <style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color: black;
+        text-align: center;
+        padding: 10px;
+    }
+    </style>
+    <div class="footer">
+        <p>Made with ❤️ by Sanskar</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+def developer():
+    st.markdown(
+        "<h3 style='text-align: center;'>Developed with ❤️  <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Manthan</a></h3>",
+        unsafe_allow_html=True
+    )
+
+# Function to print developer information
+def print_praise():
+    praise_quotes = """
+    Team Code E Khiladi
+
+    2nd Year Students,
+    B.Tech CSE(AIML & IOT) CA
+    GLA UNIVERSITY
+    """
+    title = "**Developed By -**\n\n"
+    return title + praise_quotes
