@@ -1,0 +1,21 @@
+
+.env
+/.env
+/.env.local
+/node_modules
+pages\.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+
+# Ignore large files
+*.h5
+
+# Ignore other large files or directories
+data/
+models/
+logs/
