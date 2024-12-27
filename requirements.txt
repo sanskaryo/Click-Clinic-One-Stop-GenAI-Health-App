@@ -29,3 +29,4 @@ pyrebase4
 oauth2client
 tensorflow
 pdfplumber
+streamlit-webrtc
