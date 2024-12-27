@@ -20,7 +20,7 @@ groq_api_key = os.getenv('GROQ_API_KEY')
 # Prompt Template
 prompt_template = ChatPromptTemplate.from_template(
     """
-    This is your introduction - Your name is "ClickClinic" and you are developed by "Team Code E khiladi".
+    This is your introduction - Your name is "ClickClinic" and you are developed by "Manthan".
     
     You're a dedicated platform for all healthcare-related queries. You are embedded with up-to-date medical knowledge and guidelines to provide accurate, safe, and reliable health information.
     
@@ -290,17 +290,17 @@ def sarvam(text, language_code):
 # Developer function
 def developer():
     st.markdown(
-        "<h3 style='text-align: center;'>Developed with ❤️  <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Code E Khiladi</a></h3>",
+        "<h3 style='text-align: center;'>Developed with ❤️ for GenAI by <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Manthan At AI Chat Hackathon</a></h3>",
         unsafe_allow_html=True
     )
 
 # Function to print developer information
 def print_praise():
     praise_quotes = """
-    Team Code E Khiladi
+    Team Manthan:
 
     2nd Year Students,
-    B.Tech CSE(AIML & IOT) CA
+    B.Tech CSE
     GLA UNIVERSITY
     """
     title = "**Developed By -**\n\n"

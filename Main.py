@@ -75,7 +75,7 @@ with st.sidebar:
     st.write("--------------")
     
     st.markdown(
-        "<h3 style='text-align: center;'>Developed with ❤️ for GenAI by <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Code E Khiladi</a></h3>",
+        "<h3 style='text-align: center;'>Developed with ❤️ for GenAI by <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Manthan At AI Chat Hackathon</a></h3>",
         unsafe_allow_html=True
     )
 

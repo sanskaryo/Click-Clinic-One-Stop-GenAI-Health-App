@@ -134,7 +134,7 @@ st.markdown("""
 
 def developer():
     st.markdown(
-        "<h3 style='text-align: center;'>Developed with ❤️  <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Team Code E Khiladi</a></h3>",
+        "<h3 style='text-align: center;'>Developed with ❤️  <a style='text-decoration: none' href='https://www.linkedin.com/in/sanskar-khandelwal-611249210/'>Manthan</a></h3>",
         unsafe_allow_html=True
     )
 
