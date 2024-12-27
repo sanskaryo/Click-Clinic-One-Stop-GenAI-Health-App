@@ -20,10 +20,10 @@ st.markdown('####')
 
 def print_praise():
         praise_quotes = """
-        Team Code e khiladi
+        Team manthan
 
     2nd Year Students,
-    B.Tech CSE AIML (2023-2027),
+    B.Tech CSE ,
     GLA UNIVERSITY
         """
         title = "**Developed By -**\n\n"
@@ -152,7 +152,7 @@ state_code_mapping = {
 }
 
 # Load city data
-with open(r'pages\cities.json', 'r') as f:
+with open('pages/cities.json', 'r') as f:
     city_data = json.load(f)
 
 # Create a set of unique states
