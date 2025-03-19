@@ -40,6 +40,16 @@ ClickClinic is an AI-powered healthcare platform that aims to simplify healthcar
 - **APIs**: Google Generative AI, Twilio API, Groq API
 - **Libraries**: Streamlit, Streamlit-Lottie, Streamlit-Option-Menu, Streamlit-WebRTC, Langchain, PDFPlumber, PIL, Requests, Pyrebase, Firebase-Admin, TensorFlow, SpeechRecognition, gTTS, TQDM, Promptify
 
+
+
+## Project Pictures
+
+Here are some pictures of the project:
+
+![Screenshot 1](https://github.com/sanskaryo/Click-Clinic-One-Stop-GenAI-Health-App/blob/main/Screenshot%202024-11-23%20083324.png)
+![Screenshot 2](https://github.com/sanskaryo/Click-Clinic-One-Stop-GenAI-Health-App/blob/main/Screenshot%202024-11-22%20141344.png)
+![Screenshot 3](https://github.com/sanskaryo/Click-Clinic-One-Stop-GenAI-Health-App/blob/main/Screenshot%202024-11-21%20111826.png)
+
 ## Installation
 
 1. Clone the repository:
